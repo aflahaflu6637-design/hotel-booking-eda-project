@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+=======
+.ipynb_checkpoints/
+__pycache__/
+.DS_Storey
+
+>>>>>>> 8a401cd (Updated Day 2 cleaning and corrected final dataset)
